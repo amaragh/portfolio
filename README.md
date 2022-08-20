@@ -4,17 +4,7 @@
 
 A portfolio is necessary for any programmer who wishes to showcase their coding skills to the public, especialy potential employers. Such a portfolio will allow the programmer to provide an attractive landing page where they can include any details they find important for a potential employer to know. In addition to providing links to their most impressive work, they can provide more human details about themself and show off their design skills as well.
 
-I created a portfolio using the HTML and CSS skills I have learned so far to build a framework for the work I have done so far, and for any noteworthy future projects I execute. 
-
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+I created a portfolio using the HTML, CSS and general coding skills I have learned so far to build a framework for the work I have done so far, and for any noteworthy future projects I execute. 
 
 ## Installation
 
@@ -22,13 +12,12 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+The deployed application can be found [here](https://amaragh.github.io/THIS IS INCOMPLETE/).
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+### Wireframe
+The below screenshot shows an initial pass at wireframing the layout as it would be depicted on a normal desktop computer. The final result varies slightly but the structure was built based on this design.
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![Image of paper-drawn wireframe of inital portfolio webpage design.](./assets/images/portfolio-wireframe-1.jpg)
 
 ![Screenshot of website as rendered on screen at least 980px wide.](./assets/images/coming-soon.pn)
 
