@@ -115,6 +115,11 @@ header nav ul li a:before {
     padding-right: 10px;
 }
 
+.content h2 span::before {
+    content: "\a";
+    white-space: pre;
+}
+
 .content div {
     display: flex;
     flex: 0 85%;
@@ -201,7 +206,7 @@ header nav ul li a:before {
     }
 
     .work div a {
-        height: 12vh;
+        height: 20px;
     }
 
     .work div a:first-child {
@@ -214,30 +219,46 @@ header nav ul li a:before {
 @media screen and (max-width: 768px) {
     header {
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
         flex-wrap: wrap;
         padding: 10px 35px 10px 0px;
-       
     }
 
     header h1 {
         font-size: 35px;
-        padding: 10px 10px 10px 50px;
+        padding: 10px 50px;
+        justify-content: center;
+    }
+
+    header nav {
+        justify-content: center ;
+        flex: 1 80%;
     }
 
     header nav ul li a {
-        font-size: 1.85vw;
+        font-size: 16px;
     }
 
     .content {
         display: block;
     }
 
-    .content div {
-
-        border-left: none;
-
+    .content h2 {
+        text-align: center;
+        font-size: 30px;
+        flex: 0 15%;
+        padding-right: 0;
     }
+
+    .content h2 span::before {
+        content: "";
+        white-space: pre;
+    }
+    .content div {
+        border-left: none;
+    }
+
+    
 }
 
 
