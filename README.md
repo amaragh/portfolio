@@ -13,9 +13,11 @@ N/A
 ## Usage
 Flexboxes are used throughout the code to allow more seamless integration between the elements on the page as the width changes. Other CSS tools are used throughout the webpage, such as variables, pseudo-elements, and media queries. Please explore the HTML and CSS files for further technical details.
 
+The webpage was built first to render normally on screen greater than 980px wide, then media queries were introduced to the CSS to accomodate a smaller screens.
+
 Chrome DevTools was used extensively throughout testing and was also used for sourcing screenshots of the application as if they were displayed on other devices.
 
-The deployed application can be found [here](https://amaragh.github.io/portfolio).  
+The deployed application can be found [here](https://amaragh.github.io/portfolio/).  
  
 This section includes some large screenshots so navigational links to relevant sections have been provided below:
 
@@ -26,24 +28,30 @@ This section includes some large screenshots so navigational links to relevant s
 - [Wireframe](#wireframe)
 
   ### Larger Screens
-  
-  The webpage was built first to render normally on screen greater than 980px wide. 
+  The two below screenshots comprise the website as rendered on a normal desktop screen. This layout matches the wireframe most closely.
 
-  ![Screenshot of website as rendered on a screen at least 980px wide.](./assets/images/coming-soon.pn)
+  ![Screenshot of top portion of website as rendered on a screen at least 980px wide.](./assets/images/large-screen-render-1.png)
+  ![Screenshot of bottom portion of website as rendered on a screen at least 980px wide.](./assets/images/large-screen-render-2.png)
 <br/><br/>
   ### Smaller Desktop Screens
+  The two below screenshots comprise the website as rendered on a smaller desktop screen.
 
-  ![Screenshot of website as rendered on a screen fewer than 980px and at least 768px wide.](./assets/images/coming-soon.pn)
+  ![Screenshot of top portion of website as rendered on a screen fewer than 980px and at least 768px wide.](./assets/images/small-desktop-render-1.png)
+  ![Screenshot of lower section of website as rendered on a screen fewer than 980px and at least 768px wide.](./assets/images/small-desktop-render-2.png)
 <br/><br/>
   ### Tablets
-
-  ![Screenshot of website as rendered on a screen fewer than 768px and at least 575px wide.](./assets/images/coming-soon.pn)
+  The two below screenshots comprise the website as rendered on a tablet or other smaller screen.
+  
+  ![Screenshot of website as rendered on a screen fewer than 768px and at least 575px wide.](./assets/images/tablet-render-1.png)
+  ![Screenshot of website as rendered on a screen fewer than 768px and at least 575px wide.](./assets/images/tablet-render-2.png)
 <br/><br/>
   ### Mobile Phones
   The below screenshots comprise the website as rendered on a mobile phone. A few differences as we size even further down include the header spanning the full width of the screen, and the details of the contact information section now stacking vertically.
 
   ![Screenshot of top portion of website as rendered on a screen fewer than 575px wide.](./assets/images/cell-phone-render-1.png)
+
   ![Screenshot of middle portion of website as rendered on a screen fewer than 575px wide.](./assets/images/cell-phone-render-2.png)
+
   ![Screenshot of bottom portion of website as rendered on a screen fewer than 575px wide.](./assets/images/cell-phone-render-3.png)
 <br/><br/>
   ### Wireframe

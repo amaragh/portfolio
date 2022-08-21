@@ -19,6 +19,7 @@ html {
 }
 
 /* HEADER AND NAV BAR STYLES START*/
+
 header {
     display: flex;
     justify-content: space-between;
@@ -79,6 +80,7 @@ header nav ul li a:before {
 }
 
 /* HEADER AND NAV BAR STYLES END */
+
 
 /* HERO STYLE START*/
 
@@ -214,7 +216,9 @@ header nav ul li a:before {
 
 /* CONTENT STYLE END */
 
+
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
+
 @media screen and (max-width: 980px) {
 
     header nav ul li a {
@@ -236,6 +240,7 @@ header nav ul li a:before {
 }
 
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
+
 @media screen and (max-width: 768px) {
     header {
         display: flex;
@@ -292,10 +297,9 @@ header nav ul li a:before {
 }
 
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
+
 @media screen and (max-width: 575px) {
     header {
-        /* display: flex; */
-        /* justify-content: space-around; */
         padding-right: 0;
         padding: 0;
     }
