@@ -90,8 +90,12 @@ header nav ul li a:before {
     background-position: center;
     height: 25vh;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
     align-items: flex-end;
+}
+.hero img {
+    height: 25vh;
+    border: solid 2px var(--dark-color);
 }
 
 .hero h2 {
@@ -324,9 +328,12 @@ header nav ul li a:before {
         display: none;
     }
 
-    .hero {
+    .hero,
+    .hero img{
         height: 15vh;
     }
+
+ 
 
     .hero h2 {
         margin: 15px 25px;

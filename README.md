@@ -17,9 +17,9 @@ The webpage was built first to render normally on screen greater than 980px wide
 
 Chrome DevTools was used extensively throughout testing and was also used for sourcing screenshots of the application as if they were displayed on other devices.
 
-The deployed application can be found [here](https://amaragh.github.io/portfolio/).  
+The deployed application can be found [here](https://amaragh.github.io/portfolio/). Note that the deployed application differs slighly from the screenshots as the photo was added later - the photo sits within the hero, the other elements were not affected by this addition. 
  
-This section includes some large screenshots so navigational links to relevant sections have been provided below:
+This section includes some large screenshots so navigational links to relevant sections have been provided below: 
 
 - [Larger Screens](#larger-screens)
 - [Smaller Desktop Screens](#smaller-desktop-screens)
