@@ -207,6 +207,11 @@ header nav ul li a:before {
     background-size: cover;
 }
 
+.tempo-run {
+    background-image: url(../images/tempo-run.png);
+    background-size: cover;
+}
+
 .contact-info div {
     display: flex;
     flex-wrap: wrap;
