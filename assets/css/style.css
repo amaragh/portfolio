@@ -212,6 +212,12 @@ header nav ul li a:before {
     background-size: cover;
 }
 
+.farmers-market {
+    background-image: url(../images/farmers-market.png);
+    background-size: cover;
+}
+
+
 .contact-info div {
     display: flex;
     flex-wrap: wrap;
